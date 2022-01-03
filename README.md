@@ -1,6 +1,5 @@
 - 👋🏼 Hi, I'm Moharram Moharrami, I'm a software engineering student.
 - I'm learning how to make beautiful websites😃
-- That's it. I don't know what else to say...
 - You can follow me on [twitter](https://twitter.com/ThisIsMafan)
 
 <!---
