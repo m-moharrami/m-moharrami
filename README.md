@@ -1,6 +1,4 @@
-- 👋🏼 Hi, I'm Moharram Moharrami, I'm a software engineering student.
-- I'm learning how to make beautiful websites😃
-- You can follow me on [twitter](https://twitter.com/ThisIsMafan)
+hey, nothing much going on here, I'm just a student playing around
 
 <!---
 m-moharrami/m-moharrami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
